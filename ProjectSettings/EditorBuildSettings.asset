@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SpaceShipSpace.unity
+    guid: f8c63654dcb79664dbd8159a122a4eb5
+  - enabled: 1
+    path: Assets/Scenes/Camp.unity
+    guid: 727e6bfbb9f4ac148a5b6a5bd72a4667
+  - enabled: 1
+    path: Assets/Scenes/Island.unity
+    guid: 91a97e9223b38fc4a962dccd14959e9e
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: f0deafec0b00ef84b9ab43720c26a0dd
+  - enabled: 1
+    path: Assets/Scenes/Caverne.unity
+    guid: 2ff8fbf7e68ed1949bd6cb08a41d9501
+  - enabled: 1
+    path: Assets/Scenes/Spaceship.unity
+    guid: 3bca35cea25452d44a9123ace868d3cb
+  - enabled: 1
+    path: Assets/Scenes/Mountain.unity
+    guid: eaecc6f77e6740a4d9b53137eaa6fce6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c1a4f5b9a5ec61b4085b92a50aefef9b
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: 97d786adadd21af45a090d10259a726d
+  m_configObjects: {}
